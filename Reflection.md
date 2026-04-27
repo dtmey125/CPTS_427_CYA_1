@@ -1,18 +1,18 @@
 ## Activity description
 
-My intended goal was to increase my chances of getting hired by applying to a large number of jobs, and to polish my Resume for readability.
+My intended goal for this CYA assignment was to further my chances of landing a job or internship for experience, by applying to more openings.
 
 ## Decisions
 
-I've kept a spreadsheet of companies I've applied to. I've landed a few coding interviews, but I have yet to hear back for some of them. For coding interviews, I've been honing my programming skills in platforms like LeetCode. I've also put a lot of time in formatting my resume to follow ATS scanner standards.
+I've been quite busy with other courses lately, so I dedicated most of my time to applying to more jobs incrementally since the last CYA assignment.
 
 ## Contributions
 
-I worked independently on this project, though I have consulted friends and colleagues for job opening suggestions and resume advice. I knew a person in the accounting sector with several job openings, and have also applied to those.
+I worked independently on this project.
 
 ## Quality assesment
 
-I think I did pretty well for this career goal, I've heard the hiring market is a little sparse right now, but I think what I've done has improved my chances of getting hired over doing nothing.
+I couldn't find as many openings whose qualifications I fit this time, but I think I've made good progress in my applications.
 
 ## Career alignment:
 
